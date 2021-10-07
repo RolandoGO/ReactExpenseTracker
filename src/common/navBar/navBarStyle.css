@@ -1,0 +1,6 @@
+.NavBarStyle {
+  height: 50px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}

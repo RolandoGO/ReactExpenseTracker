@@ -1,0 +1,18 @@
+.logInForm {
+  margin: auto;
+  padding: 10px;
+  height: 300px;
+  width: 200px;
+  border-radius: 10px;
+  background-color: rgb(213, 210, 230);
+
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.errorMsj {
+  font-family: monospace;
+  font-weight: bold;
+  color: rgb(190, 61, 61);
+}
